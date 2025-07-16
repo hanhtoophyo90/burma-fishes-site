@@ -1,4 +1,4 @@
-# Burma Fishes Site 🐟🇲🇲
+# 🐟 Native Fishes of Burma (Burma Fishes)
 
 A searchable and interactive web guide to the native and endemic fish species of Burma (Myanmar). Explore scientific names, habitats, conservation status, and stunning images—all in one place.
 
